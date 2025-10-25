@@ -1,7 +1,8 @@
 # WELCOME TO MEHFIL/PROFILE CREATION WEB PAGE
 
-weblink: https://profile-creation.onrender.com<br/>
-static weblink: https://static-profile-page.onrender.com
+render weblink: https://profile-creation.onrender.com<br/>
+render static link: https://static-profile-page.onrender.com <br/>
+github static link: http://mehfilism.github.io/profile/ <br/>
 
 Website : Who are you ? Create your own profile and share with your friends
 
